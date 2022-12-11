@@ -67,6 +67,7 @@ class ProcessConfig implements Map<String,Object>, Cloneable {
             'maxErrors',
             'maxForks',
             'maxRetries',
+            'maxInitRetries',
             'memory',
             'module',
             'penv',
